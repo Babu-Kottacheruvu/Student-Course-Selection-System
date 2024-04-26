@@ -1,6 +1,3 @@
-# Student_course_selection_using_encapsulation
-
-
 # Student Course Selection System
 
 ## Overview
