@@ -13,7 +13,7 @@ public class Course_List {
 	public static final String Selection[]=new String[5];
 	public static void SubjectsList() {
 		String Subjects[]= {
-				"Introduction to Programming",
+		    "Introduction to Programming",
 	            "Data Structures and Algorithms",
 	            "Object-Oriented Programming",
 	            "Software Engineering Principles",
@@ -69,14 +69,6 @@ public class Course_List {
 			System.out.println(i+1+" "+Selection[i]);
 		}
 		System.out.println();
-//		System.out.println("Please confirm by typing Yes/No!..");
-//		if(input=="Yes") {
-//			List.addAll(Arrays.asList(Selection));
-//			System.out.println("The Subjests is added to your course.");
-//			for(int i=0;i<List.size();i++) {
-//				System.out.println(List.get(i));
-//			}
-//		}
 	}
 	
 	public static void DisplayList() {
